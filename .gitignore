@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+*.log
+.env
+.DS_Store
+.vscode/
+.idea/
+
+# Local agent context (personal notes; never publish)
+.dsh/
+.agents/

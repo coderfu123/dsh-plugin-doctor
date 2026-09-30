@@ -1,0 +1,19 @@
+{
+  "name": "half-baked",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@deepseek-ai/dsh-tools": "^0.1.5"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "desktop",
+      "inject": [
+        ""
+      ]
+    }
+  }
+}

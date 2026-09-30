@@ -1,0 +1,9 @@
+{
+  "name": "bad-plugin",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./lib/missing.js",
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
+}

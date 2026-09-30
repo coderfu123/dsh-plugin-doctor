@@ -1,0 +1,4 @@
+# A minimal bundle patch layer.
+- insert:
+    - id: good-plugin
+      name: 'good-plugin'
